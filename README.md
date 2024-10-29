@@ -2,6 +2,7 @@
 #include <math.h>
 int main
 {
-printf("HELLO WORLD!"):
+printf("Enter your name!");
+scanf("%s%s%s%s%s%S",name):
 return 0;
 }
